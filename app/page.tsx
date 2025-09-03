@@ -28,9 +28,9 @@ export default function Page() {
           <a className="button" href="https://t.me/logiesedges" target="_blank" rel="noreferrer">
             Join Telegram Alerts
           </a>
-          <a className="button secondary" href="https://forms.gle/yourWaitlist" target="_blank" rel="noreferrer">
+          {/* <a className="button secondary" href="https://forms.gle/yourWaitlist" target="_blank" rel="noreferrer">
             Join the waitlist
-          </a>
+          </a> */}
         </div>
       </div>
 
